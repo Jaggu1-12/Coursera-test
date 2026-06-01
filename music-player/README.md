@@ -1,4 +1,4 @@
-# Music Player App - Resso-like
+# Music Player App 
 
 A modern music player built with Vue 3 and Vite.
 
